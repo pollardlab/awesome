@@ -6,8 +6,10 @@ A curated list of resources that members of our group have found useful, as insp
 
 ## Learning Materials 
 * [Git: A Simple Intro](https://github.com/gladstone-institutes/git-primer)
+* [Hi-C Tutorial](https://github.com/hms-dbmi/hic-data-analysis-bootcamp)
 
 ## Gladstone and Alums
 * [Gladstone Institutes GitHub Group](https://github.com/gladstone-institutes)
 * [Pollard Lab GitHub Group](https://github.com/pollardlab)
 * [Alex William's TimeForScience Repo](https://github.com/alexgraehl/TimeForScience)
+
